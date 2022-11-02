@@ -1,0 +1,85 @@
+body {
+  background-color: F7F9FC;
+  text-align: center;
+  color: #0289A7;
+}
+
+h1 {
+  font-family: 'Lalezar', cursive;
+  font-size: 88px;
+  margin-block-end: -0.33em;
+  margin-block-start: auto;
+  color: #0D96B7;
+}
+
+h2 {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 40px;
+}
+
+p {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 24px;
+}
+
+#follow-me {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 24px;
+}
+
+#discover-my-travel {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 24px;
+  text-decoration: none;
+  color:rgb(56, 55, 55);
+  background-color: #0D96B7;
+  border-radius: 10px;
+  padding: 10px;
+
+}
+
+#discover-my-travel:hover {
+  text-decoration: underline;
+  color:rgb(249, 247, 247);
+  text-decoration: none;
+  background-color: #045c24;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.card-white {
+  background: white;
+  padding: 40px;
+  box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+  border-radius: 6px;
+  margin: 20px 0px;
+  text-align: center;
+  color: #37593D
+}
+
+img {
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.container {
+  margin: 40px auto;
+  color: #37593D;
+  width: 700px;
+}
+div {
+  display: block;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+  list-style: none;
+  padding-left: 0px;
+}
+
+i {
+  font-size: 40px;
+}
